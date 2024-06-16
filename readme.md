@@ -1,6 +1,11 @@
 # XTracer Vario Profile
 
-https://www.windeckfalken.de/special/xctracer/handson/main.html
+To edit:
+- https://www.windeckfalken.de/special/xctracer/handson/main.html
+- _Edit Config File_ and paste config below
+
+To use:
+- Replace tones in config file
 
 ```ini
 varioTone=Custom
